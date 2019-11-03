@@ -1,0 +1,15 @@
+{
+    "name": "sweetjew/photo-app",
+    "authors": [
+        {
+            "name": "Andriy Ozarko",
+            "email": "AndrewOzarko@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Libraries\\": "libraries"
+        }
+    }
+}
