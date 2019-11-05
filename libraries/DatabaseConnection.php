@@ -43,6 +43,7 @@ final class DatabaseConnection
 
     /**
      * @param array $config
+     * @return PDO|null
      * @throws Exception
      */
     public static function getConnection(array $config = [])
